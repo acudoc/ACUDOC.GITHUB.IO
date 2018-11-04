@@ -1,7 +1,8 @@
 # Cassidy Dobratz
 Data Scientist | Machine Learning Engineer
 
-<img src="/Images/chuttersnap-776317-unsplash.jpg" height="24">
+<img src="/Images/chuttersnap-776317-unsplash.jpg" height="100">
+
 
 
 ### About
