@@ -2,7 +2,7 @@
 ##### Data Scientist | Machine Learning Engineer
 
 
-<img src="/Images/chuttersnap-776317-unsplash.jpg" align="center" height="300px">
+<img src="/Images/chuttersnap-776317-unsplash.jpg" align="center" width="750px">
 
 
 
