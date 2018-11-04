@@ -1,7 +1,7 @@
 # Cassidy Dobratz
 Data Scientist | Machine Learning Engineer
 
-![](/Images/chris-galbraith-784537-unsplash.jpg)
+![](/Images/chuttersnap-776317-unsplash.jpg)
 
 
 ### About
