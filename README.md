@@ -16,6 +16,7 @@ This is a place to provide links to some of the work I have done.
 * [Data Visualization](https://colab.research.google.com/drive/1nFsPuB0-otgK73qAiTzQKZ9_bNvrkbFi)
 * [Deep Learning/CNN](https://colab.research.google.com/drive/162Q7sfbJLHUrCt8RTWQMNB6614mWpemv)
 * [NLP Word Similarity](https://colab.research.google.com/drive/1tR16QL1niMGTnprVcGVGl-0NRoFKL5uK)
+* [NLP with Naive Bayes on Movie Review](https://colab.research.google.com/drive/1xtFIeiNCjp3r_CFzrmtFoPz7VUs5BaTB)
 
 ###### Find Me
 [GitHub](https://www.github.com/acudoc)
