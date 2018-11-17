@@ -7,8 +7,7 @@
 
 
 ### About
-
-This is a place to provide links to some of the work I have done.
+This is my portfolio of projects and topics I have studied in the data science/machine learning program at Lambda School. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
