@@ -7,11 +7,11 @@
 
 
 ### About
-This is my portfolio of projects and topics I have studied in the data science/machine learning program at Lambda School. 
+I spent years learning how to use clinic data to define new treatment protoccols, illustrate patient outcomes, and research and predict cost vs reimbrusement numbers for integrative therapies. Through that process I decided to commit to learning how to work with data. This is my portfolio of projects and topics I have worked with. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
-### Topics Studied
+### Topics 
 * [Data Visualization](https://colab.research.google.com/drive/1nFsPuB0-otgK73qAiTzQKZ9_bNvrkbFi)
 * [Deep Learning/CNN](https://colab.research.google.com/drive/162Q7sfbJLHUrCt8RTWQMNB6614mWpemv)
 * [CNN Image Max Pooling](https://colab.research.google.com/drive/1D1JsLCfaPRfDR44kkmc2fSZKHD8SHQZO)
