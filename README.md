@@ -13,6 +13,7 @@ Through years of self-study working with clinical data, I developed a passion fo
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
 ### Topics 
 * [Data Visualization](https://colab.research.google.com/drive/1nFsPuB0-otgK73qAiTzQKZ9_bNvrkbFi)
+* [Neural Networks](https://colab.research.google.com/drive/1pVaqqtwOspvFlo2-t91GCcAkEeZoFvNp)
 * [Deep Learning/CNN](https://colab.research.google.com/drive/162Q7sfbJLHUrCt8RTWQMNB6614mWpemv)
 * [CNN Image Max Pooling](https://colab.research.google.com/drive/1D1JsLCfaPRfDR44kkmc2fSZKHD8SHQZO)
 * [NLP Word Similarity](https://colab.research.google.com/drive/1tR16QL1niMGTnprVcGVGl-0NRoFKL5uK)
