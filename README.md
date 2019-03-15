@@ -7,7 +7,7 @@
 
 
 ### About
-I spent years learning how to use clinic data to define new treatment protoccols, illustrate patient outcomes, and research and predict cost vs reimbrusement numbers for integrative therapies. Through that process I decided to commit to learning how to work with data. This is my portfolio of projects and topics I have worked with. 
+Through years of self-study working with clinical data, I developed a passion for using technology to find answers. Here are some notebooks of topics I have studied. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
