@@ -7,7 +7,7 @@
 
 
 ### About
-Through years of self-study working with clinical data, I developed a passion for using technology to find answers. Here are some notebooks of topics I have studied. 
+Years of python/SQL self-study working with clinical data, lead to a career in technology. I developed a passion for using algorithms to find answers. Here are some notebooks of topics I have studied. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
