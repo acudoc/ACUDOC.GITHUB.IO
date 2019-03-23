@@ -7,7 +7,7 @@
 
 
 ### About
-Years of python/SQL self-study working with clinical data, lead to a career in technology. I developed a passion for using algorithms to find answers. Now I am a consultant and entrepreneur, looking to partner with projects offereing experience in healthcare and technology. 
+Years of python/SQL self-study working with clinical data, university-study, and nine-months of Lambda School lead to a career in technology. I developed a passion for using algorithms to find answers. Now I am a consultant and entrepreneur, looking to partner with projects offereing experience in healthcare and technology. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
