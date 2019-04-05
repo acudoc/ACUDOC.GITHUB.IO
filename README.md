@@ -13,7 +13,7 @@ Years of python/SQL self-study working with clinical data, university-study, and
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
 ### Sample Topics 
 * [Data Visualization](https://colab.research.google.com/drive/1nFsPuB0-otgK73qAiTzQKZ9_bNvrkbFi)
-* [Neural Networks](https://colab.research.google.com/drive/1pVaqqtwOspvFlo2-t91GCcAkEeZoFvNp)
+* [Neural Networks](https://drive.google.com/file/d/1pVaqqtwOspvFlo2-t91GCcAkEeZoFvNp/view?usp=sharing)
 * [Deep Learning/CNN](https://colab.research.google.com/drive/162Q7sfbJLHUrCt8RTWQMNB6614mWpemv)
 * [CNN Image Max Pooling](https://colab.research.google.com/drive/1D1JsLCfaPRfDR44kkmc2fSZKHD8SHQZO)
 * [NLP Word Similarity](https://colab.research.google.com/drive/1tR16QL1niMGTnprVcGVGl-0NRoFKL5uK)
