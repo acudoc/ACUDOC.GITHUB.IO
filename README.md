@@ -7,7 +7,7 @@
 
 
 ### About
-Years of python/SQL self-study working with clinical data, university-study, and nine-months of Lambda School lead to a career in technology. I developed a passion for using algorithms to find answers. Now I am a consultant and entrepreneur, looking to partner with projects offereing experience in healthcare and technology. 
+Years of python/SQL on the job training to complete various healthcare related projects, lead to a career change. I developed a passion for using algorithms to find solutions. Now I am a consultant, looking to partner with projects offereing experience in healthcare and technology. 
 
 ### Projects
 [Pass Prediction](https://colab.research.google.com/drive/1U9v09X9u5eZIJ5o91Gmpzy_UTb6PTHmY)
@@ -18,7 +18,6 @@ Years of python/SQL self-study working with clinical data, university-study, and
 * [CNN Image Max Pooling](https://colab.research.google.com/drive/1D1JsLCfaPRfDR44kkmc2fSZKHD8SHQZO)
 * [NLP Word Similarity](https://colab.research.google.com/drive/1tR16QL1niMGTnprVcGVGl-0NRoFKL5uK)
 * [NLP with Naive Bayes on Movie Review](https://colab.research.google.com/drive/1xtFIeiNCjp3r_CFzrmtFoPz7VUs5BaTB)
-
 
 ###### Find Me
 [GitHub](https://www.github.com/acudoc)
