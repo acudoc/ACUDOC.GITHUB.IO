@@ -1,5 +1,5 @@
 # Cassidy Dobratz 
-##### Data Scientist | Machine Learning Engineer
+##### Data Scientist | Software Engineer
 
 
 <img src="/Images/chuttersnap-776317-unsplash.jpg" align="center" width="750px">
